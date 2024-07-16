@@ -20,4 +20,4 @@ To address the "chaos" at hackathons, the AdventureX team has decided to host an
 
 🚀 Join the 2024 offline event, and perhaps our efforts will help you find a place that truly belongs to you. No matter how many times it exists, years later someone will, like I once did, exclaim: "There, the fire of my passion for XX was truly ignited," or "There, I met lifelong friends"... This is the ultimate purpose of hosting AdventureX.<be>
 
-🌍 Visit [adventure-x.org](adventure-x.org) to start the revolution now!
+🌍 Visit [adventure-x.org](https://adventure-x.org) to start the revolution now!
