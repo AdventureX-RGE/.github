@@ -36,4 +36,4 @@ We believe in the power of open source to create real innovation.
 <br>
 
 ## 🌍 Learn More  
-Visit [Our Website](adventure-x.org) to explore our work and join the community.  
+Visit [our website](https://adventure-x.org) to explore our work and join the community.  
