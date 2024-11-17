@@ -1,6 +1,7 @@
 # AdventureX - The Largest Hackathon in 🇨🇳
 > Empowering China’s Next Generation of Innovators  
 <br>
+
 ## 🚀 What We Do  
 AdventureX brings together students from around the world to build the next Apple, Meta, Nivida, and OpenAI.
 <br>
