@@ -1,5 +1,5 @@
 # AdventureX - The Largest Hackathon in 🇨🇳
-> **Empowering China’s Next Generation of Innovators** 
+> **Your world, Your change.** 
 <br>
 
 ## 🚀 What We Do  
